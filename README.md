@@ -7,6 +7,7 @@ Home work for Hadasim
 question1-\
 requirements: ReactJS, nodeJS, mySQL.\
 clone the prject and open in a development environment as VScode.\
+navigate into the 'question1' folder.\
 a '.env' file must be added in the server-side folder containing the following:\
     MYSQL_HOST= (your connection)\
     MYSQL_USER= (your user name)\
